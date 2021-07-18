@@ -1,2 +1,6 @@
-# Sem3-Projects
-Semester 3 projects
+## Some of the End-Semester Projects from Semester - 3
+
+* Operating Systems
+ > Unix Shell   
+
+
