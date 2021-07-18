@@ -2,5 +2,8 @@
 
 * Operating Systems
  > Unix Shell   
-
+* Robotics
+ > ABB IRB 2400 
+* Intelligence of Biological Systems - 3
+ > Optimization Formulations of Travelling Salesman Problem     
 
